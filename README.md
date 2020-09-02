@@ -12,5 +12,5 @@ Y fue utilizado por:
 Pablo Campuzano
 Samuel Mujica
 
-Si usted quiere usar este codigo para hacer la instalación por su cuenta, deberá crear un nuevo "Issue" en donde agrgue los cambios
+Si usted quiere usar este codigo para hacer la instalación por su cuenta, deberá crear un nuevo "Branch" en donde agrgue los cambios
 que realizó, para que otros puedan experimentar diferentes versiones de la instalación. 
