@@ -5,7 +5,7 @@ En este proyecto se generó una instalación interactiva llamada atracción de e
 web.
 
 Para el código de processing se tomó como punto de inicio este código de Daniel Shiffman:
-https://github.com/CodingTrain/website/tree/master/Tutorials/Processing/sketch_9_4_p5js_particle_trails
+https://github.com/CodingTrain/website/tree/master/Tutorials/Processing/11_video/sketch_16_1_particles_capture
 
 Y fue utilizado por:
 
